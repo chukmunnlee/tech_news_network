@@ -1,0 +1,35 @@
+article {
+	width: 99vw;
+}
+
+.thumbnail {
+	width: 30vw;
+	height: auto;
+}
+
+.image {
+	padding-left: 10px;
+}
+
+.news {
+	padding-left: 10px;
+	margin: 10px;
+	border: 1px solid lightgrey;
+}
+
+.big-text {
+	font-size: 3em;
+	font-family: monospace;
+}
+
+.full {
+	width: 98vw;
+	height: 98vh;
+}
+
+.center-it {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
