@@ -7,12 +7,14 @@ const toCache = [
 	'/styles.css',
 	'/unplugged.png',
 	'/manifest.json',
-	'/images/icon-128x128.png',
-	'/images/icon-144x144.png',
-	'/images/icon-152x152.png',
-	'/images/icon-192x192.png',
-	'/images/icon-384x384.png',
-	'/images/icon-512x512.png',
-	'/images/icon-72x72.png',
-	'/images/icon-96x96.png'
+	'/images/icons/icon-128x128.png',
+	'/images/icons/icon-144x144.png',
+	'/images/icons/icon-152x152.png',
+	'/images/icons/icon-192x192.png',
+	'/images/icons/icon-384x384.png',
+	'/images/icons/icon-512x512.png',
+	'/images/icons/icon-72x72.png',
+	'/images/icons/icon-96x96.png',
+	'/sw.js',
+	'/reg_sw.js'
 ]
